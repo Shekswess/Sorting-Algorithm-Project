@@ -550,8 +550,8 @@ while True:
         print('')
         print('You wrote a wrong command or you wrote EXIT !!!')
         print('Rerun the system again !')
-        break
         print('')
         print('# # # # # # # # # # # # # # # # # # # #')
         print('')
+        break
     
